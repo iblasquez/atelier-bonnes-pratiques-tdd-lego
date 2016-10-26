@@ -14,7 +14,7 @@ Chers développeurs, venez pratiquer l'eXtreme LegoBuilding avec le framework Le
 * [Bdx.io](http://www.bdx.io/) (Octobre 2016) : [transparents de l'atelier](slides/tddLego_Bdxio_2016.pdf) (ajout Intégration Continue)
 * [Agile Pays Basque](http://agile-paysbasque.fr/) (Septembre 2016) : [transparents de l'atelier](slides/tddLego_AgilePB_2016.pdf) (version détaillée)
 
-L'atelier a également été réalisé auprès d'étudiants dans le cadre d'un [module d'initiation au développementlogiciel agile](https://github.com/iblasquez/iut-m3301-agile).
+L'atelier a également été réalisé auprès d'étudiants dans le cadre d'un [module d'initiation au développementlogiciel agile](https://github.com/iblasquez/enseignement-developpement-logiciel-agile).
 
 
 ## Photos
