@@ -14,7 +14,7 @@ Chers développeurs, venez pratiquer l'eXtreme LegoBuilding avec le framework Le
 * [Bdx.io](http://www.bdx.io/) (Octobre 2016) : [transparents de l'atelier](slides/tddLego_Bdxio_2016.pdf) (ajout Intégration Continue)
 * [Agile Pays Basque](http://agile-paysbasque.fr/) (Septembre 2016) : [transparents de l'atelier](slides/tddLego_AgilePB_2016.pdf) (version détaillée)
 
-L'atelier a également été réalisé auprès d'étudiants dans le cadre d'un [module d'initiation au développementlogiciel agile](https://github.com/iblasquez/enseignement-developpement-logiciel-agile).
+L'atelier a également été réalisé auprès d'étudiants dans le cadre d'un [module d'initiation au développement logiciel agile](https://github.com/iblasquez/enseignement-developpement-logiciel-agile).
 
 
 ## Photos
@@ -42,7 +42,7 @@ Voici quelques pistes pour en savoir plus ...
 
 
 ### Envie d'en savoir plus sur le refactoring ?
-* [Introduction au Refactoring](https://www.youtube.com/watch?v=sxQAULX96P0) : viddéo réalisée par [Nadia Humbert ](https://twitter.com/nphumbert)
+* [Introduction au Refactoring](https://www.youtube.com/watch?v=sxQAULX96P0) : vidéo réalisée par [Nadia Humbert ](https://twitter.com/nphumbert)
 
 * Des catalogues présentant des techniques de refactoring :  
   [http://refactoring.com/catalog/](http://refactoring.com/catalog) sur le site de [Martin Fowler](https://twitter.com/martinfowler)  
@@ -65,7 +65,15 @@ Voici quelques pistes pour en savoir plus ...
 		Vidéo : [Du Legacy au Cloud en moins d'une heure à l'USI](https://www.youtube.com/watch?v=q11gydDAMSo) par [David Gageot](https://twitter.com/dgageot)  
 		Le code de ce kata est disponible [ici](https://github.com/emilybache/GildedRose-Refactoring-Kata).  
 	
+### Envie d'en savoir plus sur Software Craftsmanship ?
 
+* Le livre de référence sur le Software Craftsmanship :   
+	<img src="https://images-eu.ssl-images-amazon.com/images/I/51gqht7qN8L.jpg" alt="Livre Refactoring" width="70"> [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.fr/Software-Craftsman-Professionalism-Pragmatism-Pride-ebook/dp/B00QXAGIDO) de [Sandro Mancuso](https://twitter.com/sandromancuso)
+	
+
+* Autres lectures :  
+	[Artisan développeur par Gilles Roustan](http://gb-prod.fr/2016/06/12/artisan-developpeur.html)  
+ 	[How Can You Say You’re A Software Crafts(wo)man? Or what makes you a Software Crafts(wo)man par Alessandro Baffa](https://medium.com/alebaffa-blog/how-can-you-say-youre-a-software-crafts-wo-man-48ebc055ba9d)
 
 ## Licence
 Tous les documents sont placés sous licence CC BY-NC-SA :  [Creative Commons
