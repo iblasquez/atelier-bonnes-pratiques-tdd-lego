@@ -11,6 +11,10 @@ Chers développeurs, venez pratiquer l'eXtreme LegoBuilding avec le framework Le
 
 ## Supports de l'atelier
 
+tddLego_AgileGrenoble_2016
+
+* [Agile Tour Toulouse](http://tour.agiletoulouse.fr/) (Décembre 2016) : [transparents de l'atelier](slides/tddLego_AgileGrenoble_2016.pdf)
+* [Agile Grenoble](http://agile-grenoble.org/) (Novembre 2016) : [transparents de l'atelier](slides/tddLego_AgileGrenoble_2016.pdf))
 * [Agile Tour Bordeaux](http://atbdx.nostradamnit.com/) (Octobre 2016) : [transparents de l'atelier](slides/tddLego_atbdx_2016.pdf)
 * [Bdx.io](http://www.bdx.io/) (Octobre 2016) : [transparents de l'atelier](slides/tddLego_Bdxio_2016.pdf) (ajout Intégration Continue)
 * [Agile Pays Basque](http://agile-paysbasque.fr/) (Septembre 2016) : [transparents de l'atelier](slides/tddLego_AgilePB_2016.pdf) (version détaillée)
