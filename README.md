@@ -33,16 +33,17 @@ Voici quelques pistes pour en savoir plus ...
 ### Envie d'en savoir plus sur le TDD ?
 * [Introduction au TDD : Kata Fizz Buzz](https://www.youtube.com/watch?v=RWYvBNX9wcU) : vidéo réalisée par   [Nadia Humbert ](https://twitter.com/nphumbert) (Le kata Fizz Buzz est le hello world du TDD !)
 
-* [Coding Dojo : une aide à la pratique du TDD](http://iblasquez.github.io/presentation_TDD_CodingDojo)
-
-* Mindmap autour des bonnes pratiques du TDD : jetez un petit coup d'oeil sur [TDD Good Habits manifesto](https://github.com/neomatrix369/refactoring-developer-habits/blob/master/02-outcome-of-collation/tdd-manifesto/tdd-good-habits-manifesto.md)  
+* [Coding Dojo : une aide à la pratique du TDD](http://iblasquez.github.io/presentation_TDD_CodingDojo)  
 
 * De nombreux katas pour s'entrainer sur le [github d'Emily Bache](https://github.com/emilybache)  
   [Emily Bache](http://coding-is-like-cooking.info/)  est l'auteur des livres : [The Coding Dojo Handbook](https://leanpub.com/codingdojohandbook) et [Mocks, Fakes and Stubs](https://leanpub.com/mocks-fakes-stubs)
 
+* Mindmap autour des bonnes pratiques du TDD : jetez un petit coup d'oeil sur [TDD Good Habits manifesto](https://github.com/neomatrix369/refactoring-developer-habits/blob/master/02-outcome-of-collation/tdd-manifesto/tdd-good-habits-manifesto.md)  
+[101 TDD Tips Book](http://www.codemanship.co.uk/files/101TddTips.pdf) par [@Codemanship](https://twitter.com/codemanship) 
+
 * Les livres de référence sur le TDD :
 	* <img src="https://images-na.ssl-images-amazon.com/images/I/51kDbV%2BN65L._SX396_BO1,204,203,200_.jpg" alt="TDD by example" width="70"> [Test Driven Development: By Example](https://www.amazon.fr/Test-Driven-Development-Kent-Beck/dp/0321146530) de [Kent Beck](https://twitter.com/KentBeck) (TDD classique)
-	* <img src="https://images-na.ssl-images-amazon.com/images/I/51fUKOog3VL._SX380_BO1,204,203,200_.jpg" alt="GOOS" width="70"> [Growing Object-Oriented Software, Guided by Tests](https://www.amazon.fr/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627) de [Steve Freeman](https://twitter.com/sf105) et [Nat Pryce](https://twitter.com/natpryce)(TDD mockiste)   
+	* <img src="https://images-na.ssl-images-amazon.com/images/I/51fUKOog3VL._SX380_BO1,204,203,200_.jpg" alt="GOOS" width="70"> [Growing Object-Oriented Software, Guided by Tests](https://www.amazon.fr/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627) de [Steve Freeman](https://twitter.com/sf105) et [Nat Pryce](https://twitter.com/natpryce)(TDD mockiste)  
 
 
 ### Envie d'en savoir plus sur le refactoring ?
