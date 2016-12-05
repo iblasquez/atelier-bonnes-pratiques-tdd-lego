@@ -11,10 +11,8 @@ Chers développeurs, venez pratiquer l'eXtreme LegoBuilding avec le framework Le
 
 ## Supports de l'atelier
 
-tddLego_AgileGrenoble_2016
-
 * [Agile Tour Toulouse](http://tour.agiletoulouse.fr/) (Décembre 2016) : [transparents de l'atelier](slides/tddLego_AgileGrenoble_2016.pdf)
-* [Agile Grenoble](http://agile-grenoble.org/) (Novembre 2016) : [transparents de l'atelier](slides/tddLego_AgileGrenoble_2016.pdf))
+* [Agile Grenoble](http://agile-grenoble.org/) (Novembre 2016) : [transparents de l'atelier](slides/tddLego_AgileGrenoble_2016.pdf)
 * [Agile Tour Bordeaux](http://atbdx.nostradamnit.com/) (Octobre 2016) : [transparents de l'atelier](slides/tddLego_atbdx_2016.pdf)
 * [Bdx.io](http://www.bdx.io/) (Octobre 2016) : [transparents de l'atelier](slides/tddLego_Bdxio_2016.pdf) (ajout Intégration Continue)
 * [Agile Pays Basque](http://agile-paysbasque.fr/) (Septembre 2016) : [transparents de l'atelier](slides/tddLego_AgilePB_2016.pdf) (version détaillée)
@@ -35,15 +33,16 @@ Voici quelques pistes pour en savoir plus ...
 ### Envie d'en savoir plus sur le TDD ?
 * [Introduction au TDD : Kata Fizz Buzz](https://www.youtube.com/watch?v=RWYvBNX9wcU) : vidéo réalisée par   [Nadia Humbert ](https://twitter.com/nphumbert) (Le kata Fizz Buzz est le hello world du TDD !)
 
-* [Coding Dojo : une aide à la pratique du TDD](http://iblasquez.github.io/presentation_TDD_CodingDojo)  
+* [Coding Dojo : une aide à la pratique du TDD](http://iblasquez.github.io/presentation_TDD_CodingDojo)
+
+* Mindmap autour des bonnes pratiques du TDD : jetez un petit coup d'oeil sur [TDD Good Habits manifesto](https://github.com/neomatrix369/refactoring-developer-habits/blob/master/02-outcome-of-collation/tdd-manifesto/tdd-good-habits-manifesto.md)  
 
 * De nombreux katas pour s'entrainer sur le [github d'Emily Bache](https://github.com/emilybache)  
   [Emily Bache](http://coding-is-like-cooking.info/)  est l'auteur des livres : [The Coding Dojo Handbook](https://leanpub.com/codingdojohandbook) et [Mocks, Fakes and Stubs](https://leanpub.com/mocks-fakes-stubs)
 
 * Les livres de référence sur le TDD :
 	* <img src="https://images-na.ssl-images-amazon.com/images/I/51kDbV%2BN65L._SX396_BO1,204,203,200_.jpg" alt="TDD by example" width="70"> [Test Driven Development: By Example](https://www.amazon.fr/Test-Driven-Development-Kent-Beck/dp/0321146530) de [Kent Beck](https://twitter.com/KentBeck) (TDD classique)
-	* <img src="https://images-na.ssl-images-amazon.com/images/I/51fUKOog3VL._SX380_BO1,204,203,200_.jpg" alt="GOOS" width="70"> [Growing Object-Oriented Software, Guided by Tests](https://www.amazon.fr/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627) de [Steve Freeman](https://twitter.com/sf105) et [Nat Pryce](https://twitter.com/natpryce)(TDD mockiste)
-
+	* <img src="https://images-na.ssl-images-amazon.com/images/I/51fUKOog3VL._SX380_BO1,204,203,200_.jpg" alt="GOOS" width="70"> [Growing Object-Oriented Software, Guided by Tests](https://www.amazon.fr/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627) de [Steve Freeman](https://twitter.com/sf105) et [Nat Pryce](https://twitter.com/natpryce)(TDD mockiste)   
 
 
 ### Envie d'en savoir plus sur le refactoring ?
@@ -79,6 +78,12 @@ Voici quelques pistes pour en savoir plus ...
 * Autres lectures :  
 	[Artisan développeur par Gilles Roustan](http://gb-prod.fr/2016/06/12/artisan-developpeur.html)  
  	[How Can You Say You’re A Software Crafts(wo)man? Or what makes you a Software Crafts(wo)man par Alessandro Baffa](https://medium.com/alebaffa-blog/how-can-you-say-youre-a-software-crafts-wo-man-48ebc055ba9d)
+
+## Sketchnoting 
+![Sketchnoting Agile Tour Bordeaux](photos/atbdx/2016-atbdx-1.jpg)  
+
+Merci à [Denis Benoist](https://twitter.com/DenisBenoist) pour ce [Sketchnoting](https://twitter.com/DenisBenoist/status/793005892107112449) !
+
 
 ## Licence
 Tous les documents sont placés sous licence CC BY-NC-SA :  [Creative Commons
