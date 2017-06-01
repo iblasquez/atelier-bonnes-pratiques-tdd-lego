@@ -26,7 +26,7 @@ L'atelier a également été réalisé auprès d'étudiants dans le cadre d'un [
 Des photos de ces ateliers sont disponibles sur la page [photos](photos.md).  
 Si vous disposez de photos que vous souhaitez partager, n'hésitez pas à les ajouter !  
 
-D'autres photos sont visibles sur Twitter à partir des hashtag [#tddLego](https://twitter.com/search?q=%23tddLego) et [#tddLegos](https://twitter.com/search?q=%23tddLego).
+D'autres photos sont visibles sur Twitter à partir des hashtag [#tddLego](https://twitter.com/search?q=%23tddLego), [#tddLegos](https://twitter.com/search?q=%23tddLego) et [#legotdd](https://twitter.com/search?q=%23legotdd).
 
 ## Aller plus loin ...
 A l'issue de cet atelier, certains se demandent peut-être : **Et avec du code, ça donnerait quoi ?**  
