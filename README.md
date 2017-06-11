@@ -11,7 +11,7 @@ Chers développeurs, venez pratiquer l'eXtreme LegoBuilding avec le framework Le
 
 ## Supports de l'atelier
 
-
+* [MiXiT](https://mixitconf.org/) (Avril 2017) : [transparents de l'atelier](slides/tddLego_MIXIT_2017.pdf)
 * [Devoxx France](https://www.devoxx.fr/) (Avril 2017) : [transparents de l'atelier](slides/tddLego_DevoxxFR_2017.pdf)  
 * [Agile Tour Toulouse](http://tour.agiletoulouse.fr/) (Décembre 2016) : [transparents de l'atelier](slides/tddLego_attls_2016.pdf)
 * [Agile Grenoble](http://agile-grenoble.org/) (Novembre 2016) : [transparents de l'atelier](slides/tddLego_AgileGrenoble_2016.pdf)
